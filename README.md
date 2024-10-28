@@ -1,4 +1,4 @@
-<div><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=MobilePrograming%20Restarea%15" /></div>
+<div><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=MobilePrograming%20Restarea%20Review&fontSize=45" /></div>
 
 
 
